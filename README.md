@@ -7,6 +7,7 @@
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -37,6 +38,15 @@
 - Seaborn library 
 - Anaconda navigator
 
+## Acknowledgments
+- The information and decision was taken from the following links
+- https://money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the-american-economic-class-system
+- https://www.nationalfunding.com/blog/what-is-revolving-utilization-how-to-improve-it/
+- https://www.lendingclub.com/foliofn/rateDetail.action
+- https://www.debt.org/credit/loans/personal/lending-club-review/
+- if by any means we have missed to acknowledge someone the same links are mentioned in the ipynb file
+
+
 ## Group Information:
-### Group facilitator - Vernon Basil Msacarenhas
-### Group member - Anand Joshi
+### Group facilitator - Vernon Basil Msacarenhas; github username - @basil-16
+### Group member - Anand Joshi github username - @abj-16

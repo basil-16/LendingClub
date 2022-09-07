@@ -39,4 +39,4 @@
 
 ## Group Information:
 ### Group facilitator - Vernon Basil Msacarenhas; github username - @basil-16
-### Group member - Anand Joshi
+### Group member - Anand Joshi github username - @abj-16

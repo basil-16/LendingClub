@@ -38,5 +38,5 @@
 - Anaconda navigator
 
 ## Group Information:
-### Group facilitator - Vernon Basil Msacarenhas
+### Group facilitator - Vernon Basil Msacarenhas; github username - @basil-16
 ### Group member - Anand Joshi
